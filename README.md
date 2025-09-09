@@ -14,7 +14,7 @@
 
 ## 🌟 About Me  
 
-<img align="right" alt="AI Coder" width="300" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
+<img align="right" alt="AI Girl" width="280" src="https://media.giphy.com/media/YRVP7mapl24G6RNkwJ/giphy.gif" />
 
 - 👩‍💻 **Computer Science Student @ Mohan Babu University (CGPA: 9.3)**  
 - 🤖 **AI & Web Development Enthusiast**  
@@ -28,12 +28,10 @@
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nextjs,tailwind,fastapi,nodejs,flask,docker,git,vercel,gcp,figma&theme=light" />
-</p>
+<img align="left" alt="Tech Animation" width="200" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,fastapi,nodejs,docker,git,vercel,figma&theme=light" />
 </p>
 
 ---
