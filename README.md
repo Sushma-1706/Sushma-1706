@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UnyNaJ2Z2K7K9vV6v3/giphy.gif" width="300" alt="AI Tech Animation" />
+  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" alt="Tech GIF" width="400">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ## 🌍 Latest Work & Experience  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Work Experience Animation" />
+  <img align="right" alt="Tech Stack Animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 📌 Here are my **recent roles & projects**:  
@@ -70,7 +70,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1oF1K3lP0n7Y4h3g3K/giphy.gif" width="200" alt="Achievements Animation" />
+  <img align="right"  width="180" src="https://www.icegif.com/wp-content/uploads/icegif-2710.gif" alt="Achievement GIF">
 </p>
 
 - 🎓 **SheFi Scholar 2025** – advancing women’s leadership in technology & finance  
