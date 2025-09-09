@@ -28,12 +28,20 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPN1cwrkW1Q1n/giphy.gif" width="300" alt="Tech Stack Animation" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,fastapi,nodejs,docker,git,vercel,figma&theme=light" />
 </p>
 
 ---
 
 ## 🌍 Latest Work & Experience  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Work Experience Animation" />
+</p>
 
 📌 Here are my **recent roles & projects**:  
 
@@ -62,7 +70,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200" align="right"/>
+  <img src="https://media.giphy.com/media/1oF1K3lP0n7Y4h3g3K/giphy.gif" width="200" alt="Achievements Animation" />
 </p>
 
 - 🎓 **SheFi Scholar 2025** – advancing women’s leadership in technology & finance  
