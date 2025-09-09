@@ -1,18 +1,20 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Sushma%20Damacharla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- Typing Intro -->
+<!-- Intro Typing -->
 <p align="center">
   <a href="https://github.com/Sushma-1706">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF69B4&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushma+Damacharla!;AI+%26+Web+Development+Enthusiast;Open+Source+Contributor;Always+learning+new+things+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushma+Damacharla!;AI+%26+Web+Development+Enthusiast;Open+Source+Contributor;Creative+Coder+%26+Designer;Always+learning+new+things+✨" />
   </a>
 </p>
 
 ---
 
 ## 🌟 About Me  
+
+<img align="right" alt="Coding Girl" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 👩‍💻 **Computer Science Student @ Mohan Babu University (CGPA: 9.3)**  
 - 🔭 **Current Focus:** AI-powered apps, 3D web experiences, and open-source projects  
@@ -26,47 +28,32 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,fastapi,nodejs,docker,git,vercel,figma&theme=light" />
 </p>
 
 ---
 
 ## 🌍 Latest Work & Experience  
 
+📌 Here are my **recent roles & projects**:  
+
 - 💼 **AI Project Intern – CSRBOX (IBM SkillBuild)** *(Jul 2025 – Aug 2025)*  
-  Developed and deployed AI/ML models for real-world problems, gaining hands-on experience with AI tools, data handling, and collaborative workflows.  
+  Developed AI/ML models for real-world problems using IBM SkillBuild tools.  
 
 - 💼 **Intern – 1M1B Foundation** *(Jul 2025 – Aug 2025)*  
-  Built a Tableau-based sustainability dashboard, reducing analysis time for non-technical stakeholders by 30%. Collaborated on technology-driven solutions for social impact.  
+  Built Tableau dashboards to track sustainability metrics, reducing analysis time by 30%.  
 
-- 💼 **Intern – Infosys Springboard** *(2025)*  
-  Contributed to software development projects and gained structured learning in industry-relevant tools and technologies.  
+- 💼 **AI Intern – Infosys Springboard** *(Sep 2025 – Present)*  
+  Contributing to software development projects while gaining structured industry learning.  
 
 - 🚀 **Open Source Project Admin – CodeClarity (GitHub)** *(Aug 2025 – Present)*  
-  Created and maintained an open-source AI-powered code explanation and visualization platform. Mentored contributors, reviewed 30+ PRs, authored documentation, and grew community engagement by 25%.  
+  Leading an AI-powered code explainer platform, mentoring contributors, and fostering community growth.  
 
 - 📱 **StopWake (Android App)** *(Aug 2025 – Present)*  
-  Android app that wakes up passengers near destinations with reliable background alerts, alarms, and real-time geolocation tracking.  
+  Android app with background geolocation alerts for passengers near destinations.  
 
 - 🌐 **CodeClarity (Web App)** *(Jul 2025 – Present)*  
-  AI-powered code explainer and visualizer with 3D structure visualization, voice-based explanations, “Why?” mode, and live code execution tracking.  
+  Web app for AI-powered code explanations with 3D visualizations & live tracking.  
 
 📄 **[View My Resume](https://drive.google.com/file/d/1Bv0OIZWNagg9uA36L16OCcfxE9VpljSE/view?usp=drive_link)**  
 
@@ -74,10 +61,14 @@
 
 ## 🏆 Achievements  
 
-- 🎓 **SheFi Scholar 2025** – advancing women’s leadership in technology and finance  
+<p align="center">
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="200" align="right"/>
+</p>
+
+- 🎓 **SheFi Scholar 2025** – advancing women’s leadership in technology & finance  
 - ✅ Accepted into **Forward Program 2025 – McKinsey.org**  
 - 🎓 **Let'sUpgrade Ambassador**  
-- 📊 Completed **Virtual Internships & Programs** with **Tata, AWS, Nestlé, and Forage**  
+- 📊 Completed Virtual Internships with **Tata, AWS, Nestlé, and Forage**  
 - 🌸 Active contributor and builder of creative **AI & Web projects**  
 
 ---
@@ -85,8 +76,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sushma-1706&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
