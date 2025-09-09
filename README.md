@@ -1,14 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Sushma%20Damacharla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- Intro Typing -->
 <p align="center">
   <a href="https://github.com/Sushma-1706">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sushma+Damacharla!;AI+%26+Web+Development+Enthusiast;Open+Source+Contributor;Creative+Coder+%26+Designer;Always+learning+new+things+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Sushma+Damacharla!;🚀+Building+AI+%26+Web+Futures;💻+Open+Source+Innovator;🎨+Creative+Coder+%26+UI%2FUX+Designer;Always+Experimenting+%26+Learning+✨" />
   </a>
 </p>
+
 
 ---
 
