@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPN1cwrkW1Q1n/giphy.gif" width="300" alt="Tech Stack Animation" />
+  <img src="https://media.giphy.com/media/UnyNaJ2Z2K7K9vV6v3/giphy.gif" width="300" alt="AI Tech Animation" />
 </p>
 
 <p align="center">
