@@ -65,12 +65,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Sushma%27s%20GitHub%20Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sushma-1706&theme=radical&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Sushma-1706&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
