@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=ffff&animation=fadeIn&desc=✨+AI+%7C+Web+%7C+Open+Source+Explorer✨&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&desc=✨+AI+%7C+Web+%7C+Open+Source+Explorer✨&descSize=20&descAlignY=65" />
 </p>
 
 
@@ -62,23 +62,13 @@
 - 💡 Active **AI & Web builder + Open Source**  
 
 ---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
-</p>
+![Sushma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical)  
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-1706&theme=radical&hide_border=true" height="180" />
-</p>
 
-<p align="center">
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushma-1706&theme=radical&no-frame=true&margin-w=5" height="180" />
-</p>
 ---
 
 ## 🌐 Connect  
@@ -93,5 +83,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,8A2BE22&height=120&section=footer"/>
 </p>
