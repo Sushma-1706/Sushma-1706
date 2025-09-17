@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&desc=✨+AI+%7C+Web+%7C+Open+Source+Explorer✨&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=ffff&animation=fadeIn&desc=✨+AI+%7C+Web+%7C+Open+Source+Explorer✨&descSize=20&descAlignY=65" />
 </p>
 
 
@@ -62,6 +62,7 @@
 - 💡 Active **AI & Web builder + Open Source**  
 
 ---
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -76,11 +77,8 @@
 
 <p align="center">
   <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushma-1706&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushma-1706&theme=radical&no-frame=true&margin-w=5" height="180" />
 </p>
-
-
-
 ---
 
 ## 🌐 Connect  
