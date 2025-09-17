@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,FF69B4&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&desc=✨+Gothic+Barbie+Vibes✨&descSize=20&descAlignY=65" />
+<!-- Banner --> 
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40" /> 
 </p>
+
 
 
 <!-- Typing Intro -->
