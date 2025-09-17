@@ -63,24 +63,24 @@
 
 ---
 
-## 📊 GitHub Stats  
-
 <p align="center">
-  <!-- GitHub Contribution Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <!-- GitHub Contribution Stats (private contributions will show if token is set) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN_HERE" height="180" />
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-1706&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-1706&theme=radical&hide_border=true&token=YOUR_GITHUB_TOKEN_HERE" height="180" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=Sushma-1706&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 
 
 ---
