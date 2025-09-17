@@ -1,7 +1,7 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=60&fontColor=8A2BE2&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Web%20%7C%20Open%20Source&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=8A2BE2,FF69B4&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&desc=✨%20AI%20%7C%20Web%20%7C%20Open%20Source%20Explorer%20✨&descSize=20&descAlignY=65" />
 </p>
+
 
 <!-- Typing Intro -->
 <p align="center">
@@ -57,7 +57,7 @@
 - 🎓 **SheFi Scholar 2025**  
 - ✅ **Forward Program – McKinsey.org**  
 - 🌸 **Let'sUpgrade Ambassador**  
-- 📊 Internships: **Tata, AWS, Nestlé, Forage**  
+- 📊 Internships: **CSRBOX,Infosys Springboard**  
 - 💡 Active **AI & Web builder + Open Source**  
 
 ---
@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
@@ -76,6 +76,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sushma-1706&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
