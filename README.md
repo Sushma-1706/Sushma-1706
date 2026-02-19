@@ -3,146 +3,86 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Sushma%20Damacharla&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<!-- Typing Intro -->
 <p align="center">
   <a href="https://github.com/Sushma-1706">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=24&color=8A2BE2&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Developer+Tools+%26+Full-Stack+Engineer;Applied+AI+for+Developer+Productivity;Always+Learning+%26+Building" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=24&color=8A2BE2&center=true&vCenter=true&width=700&lines=Open+Source+Maintainer;AI+Developer+Tools+Builder;Full-Stack+Engineer;Human-Centered+AI+Systems" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+Computer Science student focused on building **developer tools, AI-assisted systems, and full-stack platforms**.
 
-Hi! I’m **Sushma Damacharla**, a Computer Science student who enjoys **building real systems, contributing to open source, and improving developer experience**.
-
-- 👩‍💻 **CSE Student** @ Mohan Babu University (**CGPA: 9.3**)
-- 🌱 Focused on **open source systems, developer tools, and full-stack platforms**
-- 🧩 Interested in **applied AI** where it genuinely improves usability
-- 🤝 Active **open source contributor & community maintainer**
-- 🎨 Strong believer in **clean UX, documentation, and maintainable code**
+- 🎓 CSE @ Mohan Babu University (CGPA: 9.3)
+- 🛠️ Maintainer & Open Source Contributor
+- 🤖 Building AI tools that improve developer productivity
+- 📚 Strong focus on documentation, clean UX, and scalable systems
 
 ---
 
-## 🎯 Open Source Focus
+## 🚀 What I’m Building
 
-My current areas of interest:
+### 🔹 CodeClarity  
+AI-powered code explanation & visualization platform.
 
-- **Developer Tools & Platforms**
-- **Full-Stack Systems** (React, TypeScript, Python)
-- **CMS, Tooling & Infrastructure Projects**
-- **Applied Machine Learning** (used carefully, not blindly)
-- **Performance, maintainability, and documentation**
+- Maintainer of 20+ contributors
+- PR reviews, architecture decisions, documentation systems
+- Interactive execution visualization & structured explanations
+- Designed for scalable open-source collaboration
 
-I value **long-term contribution**, readable code, and respectful collaboration.
-
----
-
-## 💼 Experience & Projects
-
-<img align="right" alt="Tech" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 🏢 Experience
-- **AI Intern – Infosys Springboard** *(2025–Present)*  
-  Working on applied ML and software systems.
-
-- **Admin & Maintainer – CodeClarity (Open Source)** *(2025–Present)*  
-  Maintaining repositories, reviewing PRs, managing 20+ contributors, and improving documentation.
-
-- **Intern – 1M1B Foundation & CSRBOX (IBM)** *(2025)*  
-  Business analytics and data-driven solutions.
+**Tech:** TypeScript · React · FastAPI · AI APIs
 
 ---
 
-### 🚀 Selected Projects
-
-#### 🔹 CodeClarity
-AI-assisted developer tool for understanding and visualizing code execution.
-
-- ⭐ 19 | 🍴 37 | 👥 20 contributors
-- Interactive flowcharts & execution visualization
-- Strong documentation and contribution guidelines
-- Deployed and actively maintained
-
-**Tech:** TypeScript, React, FastAPI
+### 🔹 AI Code Visualizer (Advanced Dev Tool)
+Full-stack platform for:
+- Multi-language code parsing
+- Execution visualization
+- AI-based explanations at different levels
+- Future: GitHub/VSCode integrations
 
 ---
 
-#### 🔹 StopWake
-Android application for intelligent travel alerts.
-
-**Tech:** Java, Android Studio
-
----
-
-#### 🔹 RAG Chatbot
-Medical information chatbot using retrieval-augmented generation.
-
-**Tech:** Python, FastAPI, LangChain
-
-📄 **Resume:**  
-https://drive.google.com/file/d/1Bv0OIZWNagg9uA36L16OCcfxE9VpljSE/view
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Languages**  
-Python · JavaScript · TypeScript · Java · C++ · HTML · CSS
+Python · TypeScript · JavaScript · Java · C++
 
 **Frontend**  
 React · Next.js · Tailwind CSS
 
-**Backend**  
-FastAPI · Node.js · Express
+**Backend & Infra**  
+FastAPI · Node.js · Docker · GitHub Actions · AWS · Vercel
 
-**Tools & Platforms**  
-Git · Docker · GitHub Actions · Vercel · AWS · Figma
-
-**Applied ML**  
-LangChain · Vector Databases · HuggingFace APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,react,nextjs,tailwind,fastapi,nodejs,docker,git,github,aws,vercel,figma&theme=light" />
-</p>
+**AI & Systems**  
+LangChain · Vector DBs · RAG Pipelines · LLM APIs
 
 ---
 
-## 🏆 Highlights
-
-- 🌱 Active open source contributor (400+ commits last year)
-- 👥 Maintainer of a growing open source community
-- 📚 Strong emphasis on documentation & mentoring
-- 🎓 Programs: McKinsey Forward, SheFi Scholar, multiple industry internships
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sushma-1706&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sushma-1706&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=Sushma-1706&theme=radical)
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Open to
 
-I’m interested in:
-- Long-term open source contribution
-- Developer-focused platforms & tooling
-- Learning from established OSS communities
-- Writing maintainable, well-documented code
+- Long-term open source collaboration  
+- Developer tooling & infrastructure projects  
+- Applied AI systems  
+- Research-oriented system building  
 
 ---
 
 ## 🌐 Connect
 
-- 📧 Email: damacharlasushma@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sushma-damacharla  
-- 🌐 Portfolio: https://sushma-1706.github.io  
-- 🐙 GitHub: https://github.com/Sushma-1706
+📧 damacharlasushma@gmail.com  
+💼 linkedin.com/in/sushma-damacharla  
+🌐 sushma-1706.github.io  
+🐙 github.com/Sushma-1706  
 
 ---
 
