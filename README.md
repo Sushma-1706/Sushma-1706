@@ -36,15 +36,6 @@ AI-powered code explanation & visualization platform.
 
 ---
 
-### 🔹 AI Code Visualizer (Advanced Dev Tool)
-Full-stack platform for:
-- Multi-language code parsing
-- Execution visualization
-- AI-based explanations at different levels
-- Future: GitHub/VSCode integrations
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**  
