@@ -71,8 +71,7 @@ LangChain · Vector DBs · RAG Pipelines · LLM APIs
 ## 🌐 Connect
 
 📧 damacharlasushma@gmail.com  
-💼 linkedin.com/in/sushma-damacharla  
-🌐 sushma-1706.github.io  
+💼 linkedin.com/in/sushma-damacharla    
 🐙 github.com/Sushma-1706  
 
 ---
