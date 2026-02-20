@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Details of me
 
 Computer Science student focused on building **developer tools, AI-assisted systems, and full-stack platforms**.
 
